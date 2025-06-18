@@ -2,7 +2,7 @@
 
 A professional, responsive, and animated portfolio built using **Next.js**, **Tailwind CSS**, **TypeScript**, and **Framer Motion**.
 iniy
-🌐 **Live Demo**: [https://your-portfolio-link.com](https://your-portfolio-link.com)
+🌐 **Live Demo**: [https://shezan-portfolio.vercel.app/](https://shezan-portfolio.vercel.app/)
 
 ---
 
