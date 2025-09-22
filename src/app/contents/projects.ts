@@ -34,14 +34,14 @@ export const projects: Project[] = [
         demoLink: 'https://shezan-portfolio.vercel.app/',
         image: '/project6.jpg',
       },
-            {
-        title: 'Coffee Shop Website',
-        description: 'A coffee shop website built with Next.js and Tailwind CSS.',
-        technologies: ['Next.js', 'Typesript', 'Tailwind CSS'],
-        githubLink: 'https://github.com/shezanusman08/coffee-website',
-        demoLink: 'https://coffee-website-inky.vercel.app/',
-        image: '/project9.jpg',
-      },
+      //       {
+      //   title: 'Coffee Shop Website',
+      //   description: 'A coffee shop website built with Next.js and Tailwind CSS.',
+      //   technologies: ['Next.js', 'Typesript', 'Tailwind CSS'],
+      //   githubLink: 'https://github.com/shezanusman08/coffee-website',
+      //   demoLink: 'https://coffee-website-inky.vercel.app/',
+      //   image: '/project9.jpg',
+      // },
       {
         title: 'Blog Website',
         description: 'A simple dynamic blog website built with Next.js and TypeScript.',
